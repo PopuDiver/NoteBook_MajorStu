@@ -1,0 +1,7 @@
+﻿  ServerMain.cpp
+  TcpServer.cpp
+D:\C++\TCP_Scoket_cppTrain\TcpServer\TcpServer.cpp(118,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++\TCP_Scoket_cppTrain\TcpServer\TcpServer.cpp(134,57): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\C++\TCP_Scoket_cppTrain\TcpServer\TcpServer.cpp(222,22): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  TcpServer.vcxproj -> D:\C++\TCP_Scoket_cppTrain\TcpScoket\Debug\TcpServer.exe
